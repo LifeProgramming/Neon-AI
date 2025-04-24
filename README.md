@@ -17,4 +17,4 @@ An AI-powered chatbot built with Django , Bootstrap , and jQuery . By default, i
 - Python 3.8+
 - pip (Python package manager)
 - Node.js (optional, for frontend dependencies)
-- A Google AI Studio account and API key (optional)
+- A Google AI Studio account and API key
